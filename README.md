@@ -21,12 +21,12 @@ entero var5 # 1998 ;
 proceso ;
 si ( var5 == 1998 )
 {
-ver "Analizador semántico" ;
+ver "Analizador lexico" ;
 }
 
 si ( var1 == "Bienvenidos" )
 {
-ver "COMPILADORES 2022" ;
+ver "COMPILADORES 2023" ;
 }
 fin ;
 ```
