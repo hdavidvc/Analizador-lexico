@@ -1,0 +1,28 @@
+
+
+ inicio ;
+cadena var1 # "Bienvenidos" ;
+
+entero var5 # 1998 ;
+
+
+proceso ;
+
+si ( var5 == 1998 )
+
+{
+
+ver "Año correcto" ;
+
+}
+
+
+si ( var1 == "Bienvenidos" )
+
+{
+
+ver "COMPILADORES 2022" ;
+
+}
+
+fin ;

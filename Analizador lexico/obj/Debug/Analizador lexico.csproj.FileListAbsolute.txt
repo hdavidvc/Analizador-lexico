@@ -1,0 +1,15 @@
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\bin\Debug\Compiladores.exe.config
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\bin\Debug\Compiladores.exe.manifest
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\bin\Debug\Compiladores.application
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\bin\Debug\Compiladores.exe
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\bin\Debug\Compiladores.pdb
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Analizador lexico.csproj.AssemblyReference.cache
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Analizador lexico.csproj.SuggestedBindingRedirects.cache
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.Form1.resources
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.Properties.Resources.resources
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Analizador lexico.csproj.GenerateResource.cache
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Analizador lexico.csproj.CoreCompileInputs.cache
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.exe.manifest
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.application
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.exe
+D:\GENERAL\UTESA\1-2023\Compiladores\Lexico\Analizador-lexico\Analizador lexico\obj\Debug\Compiladores.pdb

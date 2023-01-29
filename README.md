@@ -1,4 +1,4 @@
-# Analizador Sintáctico  EN C# 
+# Analizador lexico  EN C# 
 
 ## Documentacion
 Reconoce las siguientes palabras:

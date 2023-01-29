@@ -1,0 +1,28 @@
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe.config
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.pdb
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.Form1.resources
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.Properties.Resources.resources
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.GenerateResource.cache
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.CoreCompileInputs.cache
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.exe
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.pdb
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe.manifest
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.application
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.AssemblyReference.cache
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.exe.manifest
+F:\UTESA\2-2022\COMPILADORES\Samuel\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.application
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe.config
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe.manifest
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.application
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.exe
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\bin\Release\Compiladores.pdb
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.AssemblyReference.cache
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.Form1.resources
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.Properties.Resources.resources
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.GenerateResource.cache
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Analizador Sintactico.csproj.CoreCompileInputs.cache
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.exe.manifest
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.application
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.exe
+F:\UTESA\2-2022\COMPILADORES\Analizador-Sintactico\Analizador Sintactico\obj\Release\Compiladores.pdb
